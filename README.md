@@ -1,8 +1,6 @@
-## What is this post about?
-
 As more and more long form content burgeons on the internet, it is becoming increasingly time-consuming for someone like a researcher or any readers to filter out the content they want. Summaries or paraphrase synopsis help readers quickly go through the highlights of a huge amount of textual content and save enough time to study the relevant documents.
 
-In the example today, we will discuss about one such model which will summarize the textual content so that the reader can just get an extract of the whole document.
+In the example, we will discuss about one such model which will summarize the textual content so that the reader can just get an extract of the whole document.
 
 ## Using Pre-Trained Models
 
@@ -72,4 +70,3 @@ That is all, you can also expose this as an API service and create a great inter
 
 * [Hugging Face Docs](https://huggingface.co/docs)
 
-{{< chat minilab-huggingface-text-summarization >}}
