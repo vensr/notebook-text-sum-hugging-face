@@ -33,7 +33,7 @@ The text summarization task using hugging face pipeline is a 2 step process.
 
 * Load the pre-trained model and create a hugging face pipeline
 ```python
-summarizer = pipeline("summarization", model="facebook/bart-large-cnn")````
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 ```
 
 * Summarize the text
